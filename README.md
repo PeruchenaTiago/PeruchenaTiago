@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👨‍💻 Tiago Peruchena
 
-<!--
-**PeruchenaTiago/PeruchenaTiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação  
+📚 Atualmente estudando: MIPS, Assembly, Python, C 
+📌 Universidade: [ UNIPAMPA ]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tecnologias em estudo:
+- C / C++
+- Python
+- MIPS Assembly
+- Linux e Bash
+- Git
